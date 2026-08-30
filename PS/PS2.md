@@ -9,7 +9,7 @@
 
 ### PS#2 Details
 
-* **Problem Statement ID:** 26172
+* **Problem Statement ID:** SIH26172
 * **Problem Statement Title:** Low Latency and Efficient Voice Activator for Edge Devices
 * **Theme / Category:** Smart Automation / Hardware
 * **Ministry / Organization:** Indian Space Research Organisation (ISRO) / Department of Space

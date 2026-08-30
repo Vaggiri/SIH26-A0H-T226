@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:** 26025
+* **Problem Statement ID:** SIH26025
 * **Problem Statement Title:** Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, Prediction and Early Warning System for Underground Coal Mines in India
 * **Theme / Category:** Smart Automation / Hardware
 * **Ministry / Organization:** Ministry of Coal / Coal India Limited
 
 #### PS#2
 
-* **Problem Statement ID:** 26172
+* **Problem Statement ID:** SIH26172
 * **Problem Statement Title:** Low Latency and Efficient Voice Activator for Edge Devices
 * **Theme / Category:** Smart Automation / Hardware
 * **Ministry / Organization:** Indian Space Research Organisation (ISRO) / Department of Space
