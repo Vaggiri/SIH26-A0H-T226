@@ -5,6 +5,76 @@
   <img src="../assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX - Team <Team Name> <br/>
+## SIH26-A0H-T226 - Team ForgeByte <br/>
 
-### PS#1 
+### PS#1 Details
+
+* **Problem Statement ID:** 26025
+* **Problem Statement Title:** Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, Prediction and Early Warning System for Underground Coal Mines in India
+* **Theme / Category:** Smart Automation / Hardware
+* **Ministry / Organization:** Ministry of Coal / Coal India Limited
+
+---
+
+### Background
+
+Surface subsidence caused by underground coal mining poses significant risks to nearby communities, public infrastructure, agricultural land, forest areas, and the surrounding environment. In India, subsidence monitoring is still largely dependent on conventional field observations, periodic surveys, and post facto damage assessments, which often fail to provide timely warning before critical ground failure occurs.
+
+There is a strong need for an indigenous, low cost, intelligent, and real time monitoring solution capable of detecting early signs of ground movement and enabling proactive risk mitigation. Such a system should be affordable, scalable, and deployable across Indian underground coal mines using widely accessible technologies, thereby supporting the national vision of smart and sustainable mining.
+
+---
+
+### Description
+
+The problem envisages development of an AI-enabled smart mine subsidence monitoring and early warning platform based on a localized wireless surface mesh sensor network deployed above underground mine panels.
+
+The proposed solution involves installing a distributed network of low cost smart sensor nodes across the surface over the underground mining area. Each node may be equipped with sensors such as:
+
+* Tilt / inclination sensors
+* Vibration sensors
+* Displacement / stretch sensors
+* Crack detection sensors
+* Optional low cost positioning modules
+
+These nodes will communicate through a wireless mesh communication network (such as LoRa / Zigbee / Wi-Fi mesh), enabling continuous real time monitoring of micro ground movements over the mine panel.
+
+The system should continuously detect:
+
+* Abnormal ground tilt
+* Change in relative distance between nodes
+* Early crack initiation
+* Unusual vibration signatures, which may indicate the onset of subsidence
+
+Using Artificial Intelligence / Machine Learning, the platform should:
+
+* Identify abnormal deformation patterns
+* Predict possible subsidence zones
+* Estimate severity and progression
+* Generate automated early warning alerts
+* Support timely operational decisions
+
+The solution should be robust, low power, scalable, and suitable for Indian geo-mining conditions.
+
+---
+
+### Expected Solution
+
+A web/mobile enabled intelligent mine subsidence monitoring platform integrating IoT, wireless mesh networking, AI, and GIS technologies for:
+
+* Development of low cost smart sensor nodes using readily available hardware platforms (e.g., Arduino / ESP32 / Raspberry Pi)
+* Deployment of a localized wireless mesh network over underground mine panels for continuous surface deformation sensing
+* Real time monitoring of tilt, displacement, vibration, and crack initiation
+* AI/ML-based anomaly detection and subsidence prediction using live and historical data
+* GIS based visualization of live deformation maps and risk zones
+* Automated early warning alerts through SMS / email / mobile app notifications
+* Interactive dashboards for mine operators, planners, and regulators
+* Offline capability with periodic cloud synchronization
+* Scalable deployment across multiple underground coalfields
+
+The proposed solution must be low cost, easy to deploy, energy efficient, scalable, and student prototype friendly, while enabling a *Made in India* smart mining safety solution for sustainable underground coal mining.
+
+---
+
+### Key Innovation Hook
+
+> **Wireless Surface Mesh Network for Real Time Subsidence Detection** — Differentiates the system from generic AI proposals through localized, low-power, distributed physical sensing and mesh telemetry.
